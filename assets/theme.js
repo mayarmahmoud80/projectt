@@ -1,0 +1,1 @@
+console.log('Salla theme loaded');
